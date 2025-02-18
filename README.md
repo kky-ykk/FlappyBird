@@ -22,11 +22,11 @@ A simple **Flappy Bird** clone built in **Java Swing**. The game features a movi
 ## **📂 Image Sample**
 ### **Gameplay Screenshot**
 <p align="center">
-  <img src="https://your-image-link.com" alt="Game Running" width="360" height="640">
+  <img src="images/game-bg-ss.png" alt="Game Running" width="860" height="640">
 </p>
 
 <p align="center">
-  <img src="https://your-image-link.com" alt="Game Over" width="360" height="640">
+  <img src="images/game-ss.png" alt="Game Over" width="360" height="640">
 </p>
 
 
